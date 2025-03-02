@@ -9,14 +9,7 @@
 ### From source
 
 ```bash
-git clone --recursive https://github.com/mworchel/xatlas-python.git
-pip install ./xatlas-python
-```
-
-### Using Pip
-
-```bash
-pip install xatlas
+pip install git+https://github.com/jclarkk/xatlas-python
 ```
 
 ## Usage
