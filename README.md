@@ -1,3 +1,5 @@
+### Modified fork: Fix wrapping high poly meshes
+
 # Python bindings for xatlas
 
 (Unofficial) Python bindings for [xatlas](https://github.com/jpcy/xatlas), a library that generates texture coordinates for triangle meshes.
